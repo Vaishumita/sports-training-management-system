@@ -3,15 +3,15 @@
 ## Description
 A Python-based system developed to manage trainees, coaches, and training programs for a sports training centre.
 
-## 🎯 Objective
+## Objective
 To develop a system that automates the management of trainees, training programs, and payments, improving efficiency and reducing manual workload.
 
-## 💡 Key Concepts
+## Key Concepts
 - Modular Programming
 - File Handling
 - Role-Based Access Control
 
-## ⚙️ Features
+## Features
 - Multi-role login system (Admin, Receptionist, Coach, Trainee)
 - Training program management
 - Trainee registration and enrollment
@@ -19,7 +19,7 @@ To develop a system that automates the management of trainees, training programs
 - Monthly income report
 - File handling using .txt files
 
-## 🛠️ Technologies
+## Technologies
 - Python
 - File Handling
 
