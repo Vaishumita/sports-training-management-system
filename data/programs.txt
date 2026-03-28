@@ -1,0 +1,10 @@
+#ProgramID|TrainingName|Charges|Schedule|CoachID
+P001|Football Basic|120.00|Mon 8-10pm|U019
+P002|Cricket Pro|150.00|Wed 6-8pm|U010
+P003|Jump Run|30.00|Mon 3pm-4pm|U019
+P004|Basketball Training|100.00|Tue 5-7pm|U020
+P005|Badminton Pro|90.00|Thu 6-8pm|U021
+P006|Swimming Beginner|80.00|Sat 9-11am|U022
+P007|Tennis Intermediate|110.00|Sun 4-6pm|U023
+P008|Fitness Conditioning|70.00|Fri 7-8pm|U024
+P009|Baseball Basic|30.00|Wed 2-4pm|U003

@@ -1,0 +1,19 @@
+#UserID|Username|Password|Role|Name|Email|Contact
+U001|admin|123|ADMIN|Admin|admin@gmail.com|0192837490
+U002|rec|123|RECEPTIONIST|Receptionist|rec@gmail.com|0123456789
+U003|coach|123|COACH|Coach|coach@gmail.com|0112233445
+U004|trainee|123|TRAINEE|Trainee Main|123|trainee@gmail.com|0170000000|KL
+U005|sam|456|TRAINEE|samyuktha|041243180132|hexagon.13@apu.com|0124356745|-
+U006|estee|456|TRAINEE|estee wong|041348756|estee@gmail.com|0193372899|raintree club
+U007|izzat|456|RECEPTIONIST|izzat hakim|zatt@gmail.com|0369663187
+U008|amir|111|TRAINEE|Amir Hakimi|040112148877|amir.hakimi@gmail.com|0123456789|taman melati
+U009|nisha|222|TRAINEE|Nisha Devi|A12345678|nisha.devi@yahoo.com|0178899001|bukit jalil
+U010|farhan|333|COACH|Farhan Azman|farhan.azman@gmail.com|0192233445
+U011|linda|444|RECEPTIONIST|Linda Tan|linda.tan@gmail.com|0167788990
+U012|arjun|555|TRAINEE|Arjun Kumar|040998765432|arjun.kumar@gmail.com|0185566778|setapak
+U013|daniel|666|COACH|Daniel Lim|daniel.lim@gmail.com|0128899001
+U014|suresh|777|COACH|Suresh Raman|suresh.raman@gmail.com|0173344556
+U015|hafiz|888|COACH|Hafiz Zainal|hafiz.zainal@gmail.com|0196677889
+U016|melvin|999|COACH|Melvin Lee|melvin.lee@gmail.com|0164455667
+U017|priya|101|COACH|Priya Nair|priya.nair@gmail.com|0182233445
+U018|siti|123|COACH|Siti Azyan|siti@gmail.com|0192837291
